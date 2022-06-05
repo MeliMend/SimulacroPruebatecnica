@@ -1,0 +1,9 @@
+j{
+    justify-content: space-evenly;
+    grid-row: row;
+    width: 50%;
+    background-color: bisque;
+    contain: content;
+    justify-content: center;
+    justify-items: center;
+}
